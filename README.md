@@ -1,8 +1,8 @@
 # _Programming Language Suggester_
 
-#### By _**Evgeniya Meshuris**_
+#### By _**Evgeniya Meshuris and Gabe Nielsen**_
 
-#### _This is programming language suggester will give a resuat of what language you should learn based on your answers._
+#### _This is a page showing ice cream._
 
 ## Technologies Used
 
@@ -13,13 +13,12 @@
 
 ## Description
 
-_This is programming language suggester will give a resuat of what language you should learn based on your experience, age and occupation._
+_This is a page showing ice cream from a list using loop fucntion_
 
 ## Setup/Installation Requirements
 
-* _Fill out the From_
-* _Click Submit to see tha result_
-* _Click Start Over if you want to repeat a request_
+* _Refresh to see updates_
+
 
 ## Known Bugs
 
@@ -30,4 +29,4 @@ _This is programming language suggester will give a resuat of what language you 
 
 Licensed under the [MIT License](LICENSE)
 
-Copyright (c) _2022_ _Evgeniya Meshuris_
+Copyright (c) _2022_ _Evgeniya Meshuris and Gabe Nielsen_
